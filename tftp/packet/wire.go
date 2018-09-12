@@ -1,4 +1,4 @@
-package tftp
+package packet
 
 import (
 	"bytes"
